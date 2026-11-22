@@ -17,6 +17,7 @@ cd q-race
 python -m venv .venv
 .venv\Scripts\activate        # macOS/Linux: source .venv/bin/activate
 pip install -e ".[dev]"
+pip install -r requirements.lock   # exact pinned versions (recommended)
 pytest -q
 ```
 
