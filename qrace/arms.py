@@ -1,0 +1,1 @@
+"""The 24 arms and the equal-cost rule; the only place execution options are set (D1.3)."""

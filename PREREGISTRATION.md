@@ -1,0 +1,1 @@
+# Pre-registration (draft). Finalised and tagged v1.0-frozen at Checkpoint 2, before any blind-test QPU job.

@@ -1,0 +1,1 @@
+# Data card: Q-RACE Reliability Dataset (QRD). Draft, completed for D2.1.

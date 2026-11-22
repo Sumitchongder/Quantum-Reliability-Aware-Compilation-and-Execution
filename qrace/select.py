@@ -1,0 +1,1 @@
+"""Stage 3: budgeted selection with Clifford-twin probes (D2.5)."""

@@ -1,0 +1,1 @@
+"""Noise regimes A-E and drift variants (D1.5)."""
