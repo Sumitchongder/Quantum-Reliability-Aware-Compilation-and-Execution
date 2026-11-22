@@ -29,4 +29,4 @@ tests/     pytest tests; nothing merges without a test
 
 ## Licence
 
-Apache-2.0, like Qiskit.
+Apache-2.0.
