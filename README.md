@@ -5,7 +5,10 @@ combination of qubit layout, error suppression and error mitigation gives a spec
 the lowest error on an IBM Quantum processor, under a strict QPU-time budget.
 
 Part of the Qiskit Advocate Mentorship Program (QAMP) 2026.
-Mentee: Arpitha Rajeev · Project lead and mentor: Sumit Tapas Chongder (QIC Centre, IIT Jodhpur).
+
+Mentee: Arpitha Rajeev · 
+
+Project lead and mentor: Sumit Tapas Chongder (QIC Centre, IIT Jodhpur).
 
 ## Install
 
@@ -30,4 +33,4 @@ tests/     pytest tests; nothing merges without a test
 
 ## Licence
 
-Apache-2.0, like Qiskit.
+Apache-2.0.
