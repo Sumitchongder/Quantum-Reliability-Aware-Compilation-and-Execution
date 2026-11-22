@@ -1,0 +1,19 @@
+# Python build and cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+
+# Secrets: never commit IBM Quantum tokens
+.env
+qiskit-ibm.json
+
+# Editor and OS files
+.vscode/
+.DS_Store
