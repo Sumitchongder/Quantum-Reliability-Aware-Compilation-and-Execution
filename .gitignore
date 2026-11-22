@@ -17,3 +17,5 @@ qiskit-ibm.json
 # Editor and OS files
 .vscode/
 .DS_Store
+
+scratch/
