@@ -23,5 +23,6 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest"]
 
-[tool.setuptools]
-packages = ["qrace"]
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["qrace*"]
