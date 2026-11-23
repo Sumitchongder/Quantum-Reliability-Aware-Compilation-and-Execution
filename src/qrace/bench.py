@@ -1,1 +1,0 @@
-"""Benchmark circuits F1-F8, Clifford twins, exact ideal values (D1.2)."""

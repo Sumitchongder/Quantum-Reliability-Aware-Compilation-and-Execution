@@ -18,6 +18,8 @@ dependencies = [
   "qiskit>=2.3",
   "qiskit-ibm-runtime>=0.51",
   "qiskit-aer>=0.17",
+  "numpy>=1.26",
+  "networkx>=3.2",
 ]
 
 [project.optional-dependencies]
@@ -26,3 +28,10 @@ dev = ["pytest"]
 [tool.setuptools.packages.find]
 where = ["src"]
 include = ["qrace*"]
+
+[project.scripts]
+qrace-bench = "qrace.bench.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: wide (up to 30-qubit) checks"]
